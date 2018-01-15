@@ -1,0 +1,17 @@
+testing.txt
+Assignment 5 Testing
+-------------------------------------------------------
+Author:  Nathaniel Carr
+ID:      160150170
+Email:   carr0170@mylaurier.ca
+Version: 2017-12-03
+-------------------------------------------------------
+
+Testing done through GUI.
+
+Answers:
+1. It is impossible. The reactor is shut down from the moment is it created.
+2. The answer to this question depends on the starting temperature and starting rod insertion length as well as
+the random values generated. For starting values of 25.1°C and 0cm, the average is approximately 129 ticks.
+3. Although higher temperatures will occasionally work if the random numbers are generated in a convenient way,
+447°C is a reliable starting temperature for an initial insertion length of 50cm.
